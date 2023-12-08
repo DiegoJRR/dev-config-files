@@ -3,4 +3,4 @@ brew install neovim
 brew install ripgrep
 
 # Copy nvim dot files
-cp -r .config/nvim ~/.config/nvim
+cp -r .config/nvim ~/.config/
